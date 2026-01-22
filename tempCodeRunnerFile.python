@@ -1,0 +1,5 @@
+num1 =float(input("enter your num1:"))
+num2 = float(input("enter your num2:"))
+print(type(num1))   
+print(type(num2))
+print(num1 + num2)
